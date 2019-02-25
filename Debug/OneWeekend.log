@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\raytracing\oneweekend\oneweekend\vec3.h(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\raytracing\oneweekend\oneweekend\vec3.h(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\raytracing\oneweekend\oneweekend\hitable_list.h(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\raytracing\oneweekend\oneweekend\main.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\raytracing\oneweekend\oneweekend\main.cpp(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\raytracing\oneweekend\oneweekend\main.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\raytracing\oneweekend\oneweekend\main.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\raytracing\oneweekend\oneweekend\main.cpp(33): warning C4305: 'argument': truncation from 'double' to 'float'
+  OneWeekend.vcxproj -> E:\RAyTracing\OneWeekend\Debug\OneWeekend.exe
